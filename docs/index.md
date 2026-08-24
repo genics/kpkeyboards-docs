@@ -18,7 +18,6 @@ Use the language selector in the top-right corner to switch between **English**,
 ## Quick links
 
 - [KP Keyboards website](https://kpkeyboards.com)
-- [GitHub](https://github.com/genics)
 - [Discord](https://discord.gg/your-invite)
 
 ## How to get help

@@ -1,0 +1,39 @@
+/* KP Keyboards 品牌定制 —— 黑白极简暗黑美学（对齐原 kp-dark 配色） */
+
+/* 品牌强调色：暗底高对比冷白蓝 */
+:root {
+  --vp-c-brand-1: #a8c7e0;
+  --vp-c-brand-2: #8fb6d4;
+  --vp-c-brand-3: #7ba3c4;
+  --vp-c-brand-soft: rgba(168, 199, 224, 0.14);
+}
+
+/* 暗色模式（默认）：kp-dark 配色 */
+.dark {
+  --vp-c-bg: #161616;
+  --vp-c-bg-alt: #1c1c1c;
+  --vp-c-bg-elv: #202020;
+  --vp-c-border: #2e2e2e;
+  --vp-c-divider: #2a2a2a;
+  --vp-c-text-1: #f0f0f0;
+  --vp-c-text-2: #d4d4d4;
+  --vp-c-text-3: #9a9a9a;
+  --vp-c-gutter: #111111;
+  --vp-c-brand-1: #a8c7e0;
+  --vp-button-brand-bg: #ffffff;
+  --vp-button-brand-text: #161616;
+  --vp-code-bg: #1a1a1a;
+}
+
+/* 侧边栏背景 */
+.dark .VPSidebar {
+  background-color: #111111;
+}
+
+/* 代码块 */
+.dark .vp-code span {
+  color: inherit;
+}
+.vp-code {
+  --vp-code-bg: #1a1a1a;
+}
